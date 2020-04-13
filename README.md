@@ -6,3 +6,8 @@ Coronavirus, COVID-19, has taken a toll on most of us. Hence, I have made this r
 India has been affected by the whole situation pretty late. The number of cases in India started increasing by mid-march and it has been increasing exponentially. Because of the widespread shortage of testing, the data is necessarily limited in the picture it presents of the outbreak.
 
 I intend to publish regular updates to the code in this repository.
+
+
+I have actively used these kernels for my code:
+https://www.kaggle.com/gatunnopvp/covid-19-in-brazil-prediction-updated-04-04-20
+https://www.kaggle.com/tarunkr/covid-19-case-study-analysis-viz-comparisons
