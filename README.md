@@ -7,6 +7,8 @@ India has been affected by the whole situation pretty late. The number of cases 
 
 I intend to publish regular updates to the code in this repository.
 
+I have mainly collected data from: https://api.rootnet.in/
+
 
 I have actively used these kernels for my code:
 https://www.kaggle.com/gatunnopvp/covid-19-in-brazil-prediction-updated-04-04-20
